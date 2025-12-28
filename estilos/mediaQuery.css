@@ -16,7 +16,7 @@ lilas: #800080
     }
     section#login {
         width: 80vw;
-        
+        height: 280px;
     }
     section#login > div#imagem{
         float: left;
@@ -38,7 +38,7 @@ lilas: #800080
     
     section#login {
         width: 950px;
-        
+        height: 310px;
         
     }
     section#login > div#imagem{
