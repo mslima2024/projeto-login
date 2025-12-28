@@ -56,6 +56,8 @@ lilas: #800080
     div#formulario p{
         text-align: center;
         font-size: 1.2em;
-
+        margin-left: 5px;
+        margin-top: 10px;
+        margin-bottom: 10px
     }
 }
